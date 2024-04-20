@@ -1,1 +1,1 @@
-Cry
+Cryptohack files with notes for all the challenges solved by me.
